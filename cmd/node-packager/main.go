@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"os"
 
-	"lo-stash.de.bosch.com/icx/tool.node-packager.git/pkg/packager"
-	"lo-stash.de.bosch.com/icx/tool.node-packager.git/pkg/utils"
+	"github.dev/tonidy/node-packager/pkg/packager"
+	"github.dev/tonidy/node-packager/pkg/utils"
 )
 
 const (

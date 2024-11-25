@@ -1,4 +1,4 @@
-module lo-stash.de.bosch.com/icx/tool.node-packager.git
+module github.dev/tonidy/node-packager
 
 go 1.22
 

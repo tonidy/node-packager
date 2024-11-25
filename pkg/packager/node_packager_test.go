@@ -14,7 +14,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/suite"
-	"lo-stash.de.bosch.com/icx/tool.node-packager.git/pkg/utils"
+	"github.dev/tonidy/node-packager/pkg/utils"
 )
 
 const (
