@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.dev/tonidy/node-packager/pkg/packager"
-	"github.dev/tonidy/node-packager/pkg/utils"
+	"github.com/tonidy/node-packager/pkg/packager"
+	"github.com/tonidy/node-packager/pkg/utils"
 )
 
 const (

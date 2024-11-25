@@ -1,4 +1,4 @@
-module github.dev/tonidy/node-packager
+module github.com/tonidy/node-packager
 
 go 1.22
 

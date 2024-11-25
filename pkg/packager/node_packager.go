@@ -20,7 +20,7 @@ import (
 	"time"
 
 	bar "github.com/schollz/progressbar/v3"
-	"github.dev/tonidy/node-packager/pkg/utils"
+	"github.com/tonidy/node-packager/pkg/utils"
 )
 
 const (

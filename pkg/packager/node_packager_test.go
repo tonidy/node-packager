@@ -14,7 +14,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/suite"
-	"github.dev/tonidy/node-packager/pkg/utils"
+	"github.com/tonidy/node-packager/pkg/utils"
 )
 
 const (
